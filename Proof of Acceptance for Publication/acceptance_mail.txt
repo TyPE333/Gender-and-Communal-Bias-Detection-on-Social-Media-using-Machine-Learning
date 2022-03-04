@@ -1,0 +1,112 @@
+---------- Forwarded message ---------
+From: MultiGen-2021_icon2021 <MultiGen-2021_icon2021@softconf.com>
+Date: Thu, Dec 2, 2021 at 4:39 PM
+Subject: Your ComMA@ICON 2021 Submission (Number 4)
+To: <deepakindresh.n2019@vitstudent.ac.in>
+
+
+Dear Deepakindresh Gandhi:
+
+On behalf of the ComMA@ICON 2021 Program Committee, I am delighted to inform you that the following submission has been accepted to appear at the conference:
+
+Beware Haters at ComMA@ICON: Sequence and ensemble classifiers for Aggression, Gender and Communal bias and Aggression identification in Indian languages
+
+The Program Committee worked very hard to thoroughly review all the submitted papers. Please repay their efforts, by following their suggestions when you revise your paper.
+
+Please revise and submit your revised paper latest by December 5, 2021, failing which we will not be able to include your paper in the proceedings.
+
+When you are finished, you can upload your final manuscript at the following site:
+
+https://www.softconf.com/icon2021/MultiGen-2021/
+
+You will be prompted to login to your START account. If you do not see your submission, you can access it with the following passcode:
+
+4X-D9P3A4J3J8
+
+Alternatively, you can click on the following URL, which will take you directly to a form to submit your final paper (after logging into your account):
+
+https://www.softconf.com/icon2021/MultiGen-2021/user/scmd.cgi?scmd=aLogin&passcode=4X-D9P3A4J3J8
+
+The reviews and comments are attached below. Again, try to follow their advice when you revise your paper.
+
+Congratulations on your fine work. If you have any additional questions, please feel free to get in touch.
+
+Best Regards,
+Organizers
+ComMA@ICON 2021
+
+============================================================================ 
+ComMA@ICON 2021 Reviews for Submission #4
+============================================================================ 
+
+Title: Beware Haters at ComMA@ICON: Sequence and ensemble classifiers for Aggression, Gender and Communal bias and Aggression identification in Indian languages
+Authors: Deepakindresh Gandhi, Aakash Ambalavanan, Avireddy Rohan and Radhika Selvamani
+
+
+============================================================================
+                            REVIEWER #1
+============================================================================
+
+---------------------------------------------------------------------------
+Reviewer's Scores
+---------------------------------------------------------------------------
+                   Appropriateness (1-5): 5
+                           Clarity (1-5): 4
+      Originality / Innovativeness (1-5): 4
+           Soundness / Correctness (1-5): 5
+             Meaningful Comparison (1-5): 5
+                      Thoroughness (1-5): 5
+        Impact of Ideas or Results (1-5): 4
+                    Recommendation (1-5): 4
+               Reviewer Confidence (1-5): 4
+
+Detailed Comments
+---------------------------------------------------------------------------
+I found this paper is appropriate for ICON. The instructions are followed here. Here required citations are mentioned. And the error analysis is quite good and I think it is quite enough.
+---------------------------------------------------------------------------
+
+
+
+============================================================================
+                            REVIEWER #2
+============================================================================
+
+---------------------------------------------------------------------------
+Reviewer's Scores
+---------------------------------------------------------------------------
+                   Appropriateness (1-5): 5
+                           Clarity (1-5): 3
+      Originality / Innovativeness (1-5): 4
+           Soundness / Correctness (1-5): 3
+             Meaningful Comparison (1-5): 2
+                      Thoroughness (1-5): 4
+        Impact of Ideas or Results (1-5): 4
+                    Recommendation (1-5): 4
+               Reviewer Confidence (1-5): 4
+
+Detailed Comments
+---------------------------------------------------------------------------
+Background:
+a. Bengali is the national language of Bangladesh and is also spoken in a few parts of India. [cite]
+b. Meitei is Tibeto-Burman language mainly spoken in the northeastern state of Manipur.[cite]
+
+System overview 
+Method 3.1 , 3.2 
+
+Ensemble Model
+Label the equation used.
+
+Sequence Model
+Add few points regarding the embedding technique used in this experiment. 
+Missing citation : ..reduction algorithm[]
+
+Method for preprocessing:
+This paper state stopwords are those that appear frequently, how frequent and threshold set?
+
+Vectorization:
+Missing figure : Fig (?)
+---------------------------------------------------------------------------
+
+
+--
+ComMA@ICON 2021 - https://www.softconf.com/icon2021/MultiGen-2021
