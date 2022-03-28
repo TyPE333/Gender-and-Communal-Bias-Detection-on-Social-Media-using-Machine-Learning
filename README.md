@@ -20,6 +20,10 @@ interpretation tool LIME was used before integrating the models. The instance F1
 of our best performing models for Hindi, Bengali, Meitei, and Multilingual tasks are 0.289,
 0.292, 0.322, 0.294 respectively.
 
+## Link of publication
+
+URL: http://icon2021.nits.ac.in/resources/GenderBias-SharedTask.pdf
+
 
 
 
