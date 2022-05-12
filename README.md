@@ -2,6 +2,10 @@
 Models my team used for achieving top 5 ranks of the competition in all the different subtasks in different languages.
 The paper describing our approach was accepted to be published by the organizers. Have a look above :)
 
+## TEAM: 
+DeepakIndresh N
+Avireddy NVSRK Rohan
+Aakash Amabalavanan
 ## Abstract
 
 Aggressive and hate-filled messages are prevalent on the internet more than ever. These messages are being targeted against a person or an event online and making the internet a
